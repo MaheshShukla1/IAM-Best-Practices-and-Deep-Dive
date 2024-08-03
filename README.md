@@ -17,22 +17,24 @@
   
 ## 3. IAM Best Practices
 
-IAM security best practices
-Preventing privilege escalation
-Auditing and monitoring IAM
-IAM compliance (PCI DSS, HIPAA, SOC 2)
-IAM troubleshooting
+- IAM security best practices
+- Preventing privilege escalation
+- Auditing and monitoring IAM
+- IAM compliance (PCI DSS, HIPAA, SOC 2)
+- IAM troubleshooting
+  
 4. Advanced IAM Topics
 
-IAM roles for EC2 instances
-IAM roles for Lambda functions
-Federated identity management
-IAM access keys and security tokens
-IAM password policy
+- IAM roles for EC2 instances
+- IAM roles for Lambda functions
+- Federated identity management
+- IAM access keys and security tokens
+- IAM password policy
+  
 5. IAM Use Cases
 
-Practical examples of IAM implementation
-Case studies of IAM in different environments (development, production, etc.)
+- Practical examples of IAM implementation
+- Case studies of IAM in different environments (development, production, etc.)
 
 ## Understanding IAM roles, users, and groups
 
