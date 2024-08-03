@@ -1,4 +1,4 @@
-# -IAM-Best-Practices-and-Deep-Dive
+# IAM-Best-Practices-and-Deep-Dive
 
 ## IAM Fundamentals
 ### Table of contents
